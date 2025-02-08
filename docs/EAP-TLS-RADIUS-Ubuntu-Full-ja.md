@@ -166,6 +166,13 @@ radtest user password 127.0.0.1 0 testing123
 
 ---
 
+## 📚 参考資料
+本プロジェクトは以下のリソースに基づいています：
+- **FreeRADIUS 公式ウェブサイト**: [https://www.freeradius.org/](https://www.freeradius.org/)
+- **NII 学術認証推進室 - Eduroam & RADIUS 関連ドキュメント**: [NII MeatWiki](https://meatwiki.nii.ac.jp/confluence/pages/viewpage.action?pageId=94340973)
+  
+---
+
 ## 📩 連絡先
 質問や提案がある場合は、Issue を提出するか、私の GitHub ページにアクセスしてください：
 
