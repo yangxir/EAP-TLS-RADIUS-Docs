@@ -19,27 +19,18 @@
 
 ## 📌 ディレクトリ構成
 ```
-/EAP-TLS-RADIUS-Ubuntu
-│── README.md
-│── docs/
-│   ├── setup-guide.md  # Ubuntu の詳細なセットアップ手順
-│   ├── troubleshooting.md  # 一般的なエラーとその解決策
-│── configs/
-│   ├── freeradius/
-│   │   ├── eap.conf  # FreeRADIUS のメイン設定
-│   │   ├── clients.conf  # 許可された RADIUS クライアント
-│   │   ├── mods-enabled/
-│   │   ├── certs/  # 証明書関連ファイル
-│── scripts/
-│   ├── install_freeradius.sh  # FreeRADIUS のワンクリックインストール
-│   ├── generate_certs.sh  # 証明書生成スクリプト
-│   ├── start_radius.sh  # FreeRADIUS の起動
-│   ├── test_auth.sh  # radtest での認証テスト
-│── examples/
-│   ├── ubuntu_client.md  # Ubuntu デバイスの接続方法
-│   ├── windows_client.md  # Windows デバイスの接続方法
-│── LICENSE
-│── .gitignore
+/EAP-TLS-RADIUS-Docs
+│── README.md              # 言語選択インデックス
+│── docs/                  # Docsify ドキュメントのメインディレクトリ
+│   │── README.zh.md       # 中国語版 README
+│   │── README.en.md       # 英語版 README
+│   │── README.ja.md       # 日本語版 README
+│   │── _sidebar.md        # Docsify サイドバー
+│   │── index.html         # Docsify エントリーファイル
+│   │── EAP-TLS-RADIUS-Ubuntu-Full.md       # 中国語の実験ドキュメント
+│   │── EAP-TLS-RADIUS-Ubuntu-Full-en.md    # 英語の実験ドキュメント
+│   │── EAP-TLS-RADIUS-Ubuntu-Full-ja.md    # 日本語の実験ドキュメント
+
 ```
 
 ---
