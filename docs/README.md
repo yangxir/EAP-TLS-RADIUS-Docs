@@ -8,7 +8,7 @@
 - 🇬🇧 **[English Documentation](README.en.md)**  
   _Latest update: 2025.2.9 | Full configuration guide_  
 - 🇨🇳 **[简体中文](README.zh.md)**  
-  _Lates Updated: 22025.2.9 | Complete setup manual_  
+  _Lates Updated: 2025.2.9 | Complete setup manual_  
 - 🇯🇵 **[日本語](README.ja.md)**  
   _Last updated: 2025.2.9 | Step-by-step implementation_
 
