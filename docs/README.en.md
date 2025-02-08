@@ -6,7 +6,7 @@ This project records the **EAP-TLS RADIUS Server setup** in an **Ubuntu** enviro
 ## 📖 Documentation Structure
 You can select different language versions from the **Sidebar**:
 - 🇨🇳 [中文版](EAP-TLS-RADIUS-Ubuntu-Full.md)
-- 🇬🇧 [English Version](EAP-TLS-RADIUS-Ubuntu-Full-en.md)
+- EN [English Version](EAP-TLS-RADIUS-Ubuntu-Full-en.md)
 - 🇯🇵 [日本語版](EAP-TLS-RADIUS-Ubuntu-Full-ja.md)
 
 ## 🛠 Features
