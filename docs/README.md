@@ -28,6 +28,6 @@
 ## 📜 许可证
 本项目基于 **MIT License**，自由使用和修改。如需引用或二次开发，请注明来源。
 
-📌 **GitHub 仓库**: [EAP-TLS-RADIUS-Ubuntu](https://github.com/yangxir)
+📌 **GitHub 仓库**: [EAP-TLS-RADIUS-Ubuntu](https://github.com/yangxir/EAP-TLS-RADIUS-Docs)
 
 ⭐ 如果你觉得本项目有帮助，请 **Star ⭐** 支持！
