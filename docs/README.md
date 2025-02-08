@@ -1,10 +1,22 @@
 # 🌐 EAP-TLS RADIUS Server Documentation
 
-**This documentation is available in multiple languages:**
+---
 
-- 🇨🇳 [简体中文](README.zh.md)
-- EN [English](README.en.md)
-- 🇯🇵 [日本語](README.ja.md)
+## 📚 Multi-Language Documentation
+### Available Language Versions
+🗺 Choose your preferred language:
+- 🇬🇧 **[English Documentation](README.en.md)**  
+  _Latest update: 2025.2.9 | Full configuration guide_  
+- 🇨🇳 **[简体中文](README.zh.md)**  
+  _Lates Updated: 22025.2.9 | Complete setup manual_  
+- 🇯🇵 **[日本語](README.ja.md)**  
+  _Last updated: 2025.2.9 | Step-by-step implementation_
 
-Click the link above to select your preferred language.  
-Alternatively, use the sidebar to navigate the documentation.
+---
+
+## 🖱 User Guides
+```diff
++ Recommended Access Methods:
+1. Click language flags above for direct access
+2. Use sidebar navigation for version switching
+3. Global content search (Ctrl+K/Cmd+K)
