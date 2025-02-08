@@ -19,27 +19,17 @@
 
 ## 📌 目录结构
 ```
-/EAP-TLS-RADIUS-Ubuntu
-│── README.md
-│── docs/
-│   ├── setup-guide.md  # Ubuntu 详细搭建过程
-│   ├── troubleshooting.md  # 常见错误及解决方案
-│── configs/
-│   ├── freeradius/
-│   │   ├── eap.conf  # 主要 FreeRADIUS 配置
-│   │   ├── clients.conf  # 允许的 RADIUS 客户端
-│   │   ├── mods-enabled/
-│   │   ├── certs/  # 证书相关文件
-│── scripts/
-│   ├── install_freeradius.sh  # 一键安装 FreeRADIUS
-│   ├── generate_certs.sh  # 证书生成脚本
-│   ├── start_radius.sh  # 启动 FreeRADIUS
-│   ├── test_auth.sh  # 使用 radtest 进行测试
-│── examples/
-│   ├── ubuntu_client.md  # Ubuntu 设备如何连接 RADIUS
-│   ├── windows_client.md  # Windows 设备如何连接 RADIUS
-│── LICENSE
-│── .gitignore
+/EAP-TLS-RADIUS-Docs
+│── README.md              # 语言选择索引
+│── docs/                  # Docsify 文档主目录
+│   │── README.zh.md       # 中文版 README
+│   │── README.en.md       # 英文版 README
+│   │── README.ja.md       # 日文版 README
+│   │── _sidebar.md        # Docsify 侧边栏
+│   │── index.html         # Docsify 入口文件
+│   │── EAP-TLS-RADIUS-Ubuntu-Full.md       # 中文实验文档
+│   │── EAP-TLS-RADIUS-Ubuntu-Full-en.md    # 英文实验文档
+│   │── EAP-TLS-RADIUS-Ubuntu-Full-ja.md    # 日文实验文档
 ```
 
 ---
