@@ -19,27 +19,18 @@ This project provides a guide to setting up an **EAP-TLS authentication FreeRADI
 
 ## 📌 Directory Structure
 ```
-/EAP-TLS-RADIUS-Ubuntu
-│── README.md
-│── docs/
-│   ├── setup-guide.md  # Detailed setup guide for Ubuntu
-│   ├── troubleshooting.md  # Common errors and solutions
-│── configs/
-│   ├── freeradius/
-│   │   ├── eap.conf  # Main FreeRADIUS configuration
-│   │   ├── clients.conf  # Allowed RADIUS clients
-│   │   ├── mods-enabled/
-│   │   ├── certs/  # Certificate-related files
-│── scripts/
-│   ├── install_freeradius.sh  # One-click FreeRADIUS installation
-│   ├── generate_certs.sh  # Certificate generation script
-│   ├── start_radius.sh  # Start FreeRADIUS
-│   ├── test_auth.sh  # Test authentication with radtest
-│── examples/
-│   ├── ubuntu_client.md  # Ubuntu device connection guide
-│   ├── windows_client.md  # Windows device connection guide
-│── LICENSE
-│── .gitignore
+/EAP-TLS-RADIUS-Docs
+│── README.md              # Language selection index
+│── docs/                  # Docsify documentation main directory
+│   │── README.zh.md       # Chinese README
+│   │── README.en.md       # English README
+│   │── README.ja.md       # Japanese README
+│   │── _sidebar.md        # Docsify sidebar
+│   │── index.html         # Docsify entry file
+│   │── EAP-TLS-RADIUS-Ubuntu-Full.md       # Chinese experiment documentation
+│   │── EAP-TLS-RADIUS-Ubuntu-Full-en.md    # English experiment documentation
+│   │── EAP-TLS-RADIUS-Ubuntu-Full-ja.md    # Japanese experiment documentation
+
 ```
 
 ---
