@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>EAP-TLS RADIUS Docs</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/vue.css">
+</head>
+<body>
+  <div id="app"></div>
+  <script>
+    window.$docsify = {
+      name: 'EAP-TLS RADIUS Documentation',
+      loadNavbar: true,        // 启用导航栏
+      loadSidebar: true,       // 启用侧边栏
+      subMaxLevel: 2,          // 显示二级标题
+      autoHeader: true,        // 自动生成标题锚点
+      mergeNavbar: true,       // 合并导航栏和侧边栏
+      routerMode: 'history',   // 路由模式
+      alias: {                 // 按语言加载侧边栏
+        '/en/.*/_sidebar.md': '/en/_sidebar.md',
+        '/zh/.*/_sidebar.md': '/zh/_sidebar.md',
+        '/ja/.*/_sidebar.md': '/ja/_sidebar.md'
+      }
+    };
+  </script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+</body>
+</html>
