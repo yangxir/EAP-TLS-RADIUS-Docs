@@ -7,4 +7,4 @@
   - 🇬🇧 [English Version](EAP-TLS-RADIUS-Ubuntu-Full-en.md)  
   - 🇯🇵 [日本語版](EAP-TLS-RADIUS-Ubuntu-Full-ja.md)
 
-> 💡 提示：点击国旗图标快速切换语言
+
