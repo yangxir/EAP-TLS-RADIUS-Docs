@@ -6,7 +6,7 @@
 ## 📖 文档结构
 你可以从左侧的 **Sidebar（侧边栏）** 选择不同的语言版本：
 - 🇨🇳 [中文版](EAP-TLS-RADIUS-Ubuntu-Full.md)
-- 🇬🇧 [English Version](EAP-TLS-RADIUS-Ubuntu-Full-en.md)
+- EN [English Version](EAP-TLS-RADIUS-Ubuntu-Full-en.md)
 - 🇯🇵 [日本語版](EAP-TLS-RADIUS-Ubuntu-Full-ja.md)
 
 ## 🛠 功能概览
